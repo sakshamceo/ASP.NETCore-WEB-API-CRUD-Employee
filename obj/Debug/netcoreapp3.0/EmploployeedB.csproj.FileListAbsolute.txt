@@ -1,408 +1,544 @@
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.exe
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.deps.json
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.runtimeconfig.json
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.runtimeconfig.dev.json
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.pdb
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.AssemblyInfo.cs
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\EmploployeedB.StaticWebAssets.Manifest.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\EmploployeedB.StaticWebAssets.Pack.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.RazorTargetAssemblyInfo.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.pdb
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.genruntimeconfig.cache
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.CopyComplete
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.exe
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.deps.json
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.runtimeconfig.json
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.runtimeconfig.dev.json
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.pdb
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.AssemblyInfo.cs
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\EmploployeedB.StaticWebAssets.Manifest.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\EmploployeedB.StaticWebAssets.Pack.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.RazorTargetAssemblyInfo.cache
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.CopyComplete
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.dll
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.pdb
-C:\Users\Admin\Desktop\employeeAPI - Copy\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.genruntimeconfig.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.exe
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.deps.json
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.runtimeconfig.json
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.runtimeconfig.dev.json
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\EmploployeedB.pdb
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.AssemblyInfo.cs
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\EmploployeedB.StaticWebAssets.Manifest.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\EmploployeedB.StaticWebAssets.Pack.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.EmploployeedB.props
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.RazorTargetAssemblyInfo.cache
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.csproj.CopyComplete
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.dll
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.pdb
-C:\Users\Admin\Desktop\employeeAPI - ADO.NET\EmploployeedB\EmploployeedB\obj\Debug\netcoreapp3.0\EmploployeedB.genruntimeconfig.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.exe
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.deps.json
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.json
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.dev.json
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.pdb
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.AssemblyReference.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfo.cs
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Manifest.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Pack.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.build.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildMultiTargeting.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildTransitive.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.RazorTargetAssemblyInfo.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.pdb
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.genruntimeconfig.cache
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.AccessControl.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CopyComplete
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/NuGet.Frameworks.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.AttributedModel.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Convention.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Hosting.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Runtime.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.TypedParts.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.exe
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.deps.json
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.json
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.dev.json
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.pdb
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/NuGet.Frameworks.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.AttributedModel.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Convention.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Hosting.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Runtime.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.TypedParts.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.AccessControl.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.AssemblyReference.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfo.cs
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Manifest.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Pack.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.build.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildMultiTargeting.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildTransitive.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.RazorTargetAssemblyInfo.cache
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CopyComplete
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.dll
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.pdb
+C:/Users/Admin/Desktop/employeeAPI - Copy/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.genruntimeconfig.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.exe
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.deps.json
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.json
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.dev.json
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/EmploployeedB.pdb
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/NuGet.Frameworks.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.AttributedModel.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Convention.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Hosting.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.Runtime.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Composition.TypedParts.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.AccessControl.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.AssemblyReference.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfoInputs.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfo.cs
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Manifest.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Pack.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.build.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildMultiTargeting.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildTransitive.EmploployeedB.props
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.RazorTargetAssemblyInfo.cache
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CopyComplete
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.dll
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.pdb
+C:/Users/Admin/Desktop/employeeAPI - ADO.NET/EmploployeedB/EmploployeedB/obj/Debug/netcoreapp3.0/EmploployeedB.genruntimeconfig.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/EmploployeedB
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/EmploployeedB.deps.json
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.json
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/EmploployeedB.runtimeconfig.dev.json
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/EmploployeedB.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/EmploployeedB.pdb
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/dotnet-aspnet-codegenerator-design.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Microsoft.Win32.Registry.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/NuGet.Frameworks.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Composition.AttributedModel.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Composition.Convention.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Composition.Hosting.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Composition.Runtime.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Composition.TypedParts.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Security.AccessControl.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Security.Principal.Windows.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/System.Text.Encoding.CodePages.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.AssemblyReference.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfoInputs.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.AssemblyInfo.cs
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cs
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Manifest.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/staticwebassets/EmploployeedB.StaticWebAssets.Pack.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.EmploployeedB.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.build.EmploployeedB.props
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildMultiTargeting.EmploployeedB.props
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/staticwebassets/msbuild.buildTransitive.EmploployeedB.props
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.RazorTargetAssemblyInfo.cache
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.csproj.CopyComplete
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.dll
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.pdb
+/Users/admin/Documents/ASP.NETCore-WEB-API-CRUD-Employee/obj/Debug/netcoreapp3.0/EmploployeedB.genruntimeconfig.cache
